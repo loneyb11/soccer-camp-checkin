@@ -1,0 +1,9 @@
+.qr-container {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #f9f9f9;
+  }

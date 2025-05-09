@@ -1,0 +1,43 @@
+.checkin-page {
+    padding: 1.5rem;
+    font-family: sans-serif;
+  }
+  
+  .player-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .player-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 0.75rem;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  .logout-btn {
+    background-color: #121212;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-bottom: 16px;
+  }
+  
+  .logout-btn:hover {
+    background-color: #333;
+  }
+  .button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
